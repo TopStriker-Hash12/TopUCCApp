@@ -16,6 +16,7 @@ Prerequisites for installation
 Android Studio installed on your computer.
 An Android device or emulator to run the app.
 Basic familiarity with Android development and Git commands
+
 Step 1. Clone the repository
 Open a terminal or Git Bash 
 Navigate to directory where you want project stored 
