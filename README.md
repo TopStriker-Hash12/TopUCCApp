@@ -8,7 +8,7 @@ UCC App
 Description	
 Our mobile app was developed with a focus to aid students with comprehensive access to departmental resources and information. The app boasts an intuitive user interface offering key functionalities including a Faculty/Staff Directory, detailed Course information, Admission requirements, Social Media integration with UCC's Facebook, Twitter (Referred to as X), and Instagram accounts, and a convenient Email FAB feature. Each feature seamlessly transitions to dedicated activities within the app, facilitating direct contact with faculty and staff, providing detailed course descriptions and prerequisites, offering admission insights with a link to UCC's application page, enabling in-app access to social media platforms, and allowing instant email communication with the Head of the Department (HOD). Course data is efficiently managed either through a SQLite database or Firebase, ensuring streamlined access to valuable academic information. 
 
-In App Screenshots 
+
 
 
 Installation 
