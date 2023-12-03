@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bckg_2"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".FacultyFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/faculty_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:layout_marginTop="10dp"
+        android:overScrollMode="never"
+        android:paddingBottom="50dp"
+        android:clipToPadding="false"
+        tools:listitem="@layout/faculty_single_item" />
+
+</RelativeLayout>
